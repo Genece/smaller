@@ -27,3 +27,10 @@ smaller
 
 ### 欢迎issues，欢迎fork
 欢迎各路大神来写图片压缩算法，再把我教会，那你就是哈佛的老师了，因为会图片压缩算法就可以去哈佛了(来自百度知道--求教图片算法)
+
+#English
+
+###Why smaller
+Smaller is a tool what make your images free up massive storage space.it's so fast and smarter.In the past time,front-end Web developer always use
+Tinypny to compressed pictures,it's very slow and compression ratio is not enough.But now we developed Smaller to resolve all problems,just run commands in your
+terminal,you could compress images in your local and needn't depend on network!
